@@ -1,1 +1,1 @@
-hellow 
+Welcome to my GitHub profile!
